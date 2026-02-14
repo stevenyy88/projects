@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Steve Ng from Singapore. I'm also the Founder and CEO of Digital Futures Consultancy LLP. 👋
 
 ### Software Engineer | Cybersecurity Specialist | AI Innovator
 
@@ -21,40 +21,45 @@ I am a technical builder focused on the intersection of **Artificial Intelligenc
     * **Open Source/Other:** DeepSeek V3.2, Minimax M2.5, Z.ai GLM-5, Kimi K2.5
 
 ### 🛡️ Cybersecurity
-* **Focus:** Vulnerability Management, Red Teaming, Patch Management, Penetration Testing.
+* **Focus:** Vulnerability Management, Red Teaming, Patch Management, Penetration Testing, Agentic SOC.
+
+### 🛡️ Business Applications
+* **Focus:** AI-powered Transformative Business SaaS Applications.
 
 ### ⚙️ Hardware
-* **Workstations:** Mac Mini (M2), Windows Custom Build (Ryzen 3).
-* **Edge/IoT:** Raspberry Pi 4 (8GB) for localized testing and home automation.
+* **Workstations:** AMD Ryzen 9 7950X (RTX 3080), Intel Core i7 12700K (RTX 3070Ti), M5 Mac Studio (Next Upgrade)
+* **Edge/IoT:** Mac Mini (M2), Windows Custom Build (Ryzen 3), Raspberry Pi 4 (8GB) for localized testing and home automation.
 
 ---
 
 ## 🚀 Key Projects
 
-### 🧠 [Ai Learning Pal](https://link-to-project-if-available)
+### 🧠 AI Learning Pal
 *A hyper-personalised multilingual learning coach.*
-* **Focus:** GenAI literacy for working professionals.
+* **Focus:** GenAI literacy for working professionals and students.
 * **Key Tech:** Generative AI, On-device processing (Privacy-first architecture).
 * **Goal:** To provide adaptive, secure, and accessible AI coaching.
+* **Status:** In active development/research.
 
-### 🛡️ [Aegis](https://link-to-project-if-available)
+### 🛡️ AEGIS
 *A comprehensive Patch Management & Testing SaaS.*
 * **Focus:** Automating the security patch lifecycle for enterprise environments.
-* **Key Tech:** Automated Testing, Vulnerability Scanning, Cloud Infrastructure.
+* **Key Tech:** Automated Testing, Vulnerability Scanning and Management, Cloud Infrastructure.
 * **Status:** In active development/research.
 
 ### 💬 SMB Sales Chatbot
 *A lead-generating AI assistant for the ASEAN market.*
 * **Focus:** High-quality lead qualification and scheduling for Small-to-Medium Businesses.
 * **Features:** Multi-language support (ASEAN focus), Calendar/CRM integration.
+* **Status:** In pre-production deployment and testing.
 
 ---
 
 ## 📈 Current Focus
-I am currently researching **Social Media SaaS** architectures for automated posting and engagement, as well as refining **Agentic IDE prompts** to accelerate the software development lifecycle.
+I am currently researching safe and secure automated agentic workflows to build, deploy and operate projects on Cloud.
 
 ---
 
 ### 📫 Connect with me
-* [LinkedIn](https://linkedin.com/in/yourprofile)
-* [Website/Portfolio](https://yourwebsite.com)
+* [LinkedIn](https://linkedin.com/in/steveng)
+* [Website/Portfolio](https://digitalfutures.asia)
