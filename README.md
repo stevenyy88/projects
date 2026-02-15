@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Steve Ng from Singapore. I'm also the Founder and CEO of Digital Futures Consultancy LLP.
+I'm Steve Ng from Singapore and the Founder and CEO of Digital Futures Consultancy LLP.
 
 ### Software Engineer | Cybersecurity Specialist | AI Innovator
 
