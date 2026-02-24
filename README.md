@@ -16,9 +16,9 @@ I am a technical builder focused on the intersection of **Artificial Intelligenc
 * **Architecture:** SaaS, Microservices, Agentic IDE Automation
 
 ### 🤖 AI Infrastructure & Tooling
-* **Inference & Serving:** vLLM, Ollama, LMStudio
+* **Inference & Serving:** vLLM, Ollama, LM Studio
 * **Frontier Models:**
-    * **Google:** Gemini 3 Pro, Antigravity
+    * **Google:** Gemini 3.1 Pro, Antigravity
     * **OpenAI:** GPT-5.3 Codex, GPT-5.2
     * **Open Source/Other:** DeepSeek V3.2, Minimax M2.5, Z.ai GLM-5, Kimi K2.5
 
@@ -43,7 +43,7 @@ I am a technical builder focused on the intersection of **Artificial Intelligenc
 * **Goal:** To provide adaptive, secure, and accessible AI coaching.
 * **Status:** In active development/research.
 
-### 🛡️ AEGIS
+### 🛡️ AEGIS Watch
 *A comprehensive Patch Management & Testing SaaS.*
 * **Focus:** Automating the security patch lifecycle for enterprise environments.
 * **Key Tech:** Automated Testing, Vulnerability Scanning and Management, Cloud Infrastructure.
