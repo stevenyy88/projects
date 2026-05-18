@@ -21,7 +21,7 @@ Created by Digital Futures Consultancy LLP (Singapore) - https://DigitalFutures.
 
 ## Download
 
-Pre-built binaries for **Linux x64** and **Windows x64** are available at [mkv-strip-binaries/releases](https://github.com/stevenyy88/mkv-strip-binaries/releases).
+Pre-built binaries for **Linux x64** and **Windows x64** are available in the [`binaries/`](https://github.com/stevenyy88/mkv-strip/tree/main/binaries) directory.
 
 | File | Platform | Size |
 |------|----------|------|
