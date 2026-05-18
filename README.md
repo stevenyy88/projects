@@ -49,6 +49,12 @@ I am a technical builder focused on the intersection of **Artificial Intelligenc
 * **Key Tech:** Automated Testing, Vulnerability Scanning and Management, Cloud Infrastructure.
 * **Status:** In active development/research.
 
+### 🎬 mkv-strip
+*A pure-Rust CLI tool to strip, extract, and add subtitle tracks in MKV files — no FFmpeg required.*
+* **Focus:** Lightweight, dependency-free MKV track management for media workflows.
+* **Key Tech:** Rust, EBML/Matroska native parsing, Cross-platform (Linux & Windows).
+* **Status:** Released — [See project page →](mkv-strip/mkv-strip.md)
+
 ### 💬 SMB Sales Chatbot
 *A lead-generating AI assistant for the ASEAN market.*
 * **Focus:** High-quality lead qualification and scheduling for Small-to-Medium Businesses.
